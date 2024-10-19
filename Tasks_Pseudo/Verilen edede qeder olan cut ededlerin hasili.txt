@@ -1,0 +1,10 @@
+1.Ekranda "Ədədi daxil edin" mesajını göstər.
+2.number adlı dəyişəni istifadəçidən alınan ədədə təyin et.
+3.multiply adlı dəyişəni 1-ə təyin et.
+4.Əgər number ≤ 1 isə:
+  1.Ekranda "1-dən yüksək ədəd daxil edin" mesajını göstər.
+  2.Başlanğıca qayıt (yenidən ədəd daxil edilməsini istə).
+5.number-dən kiçik bütün ədədləri yoxla:
+6.Əgər ədəd cütdürsə (yəni ədədi 2-yə böləndə qalıq qalmırsa):
+  1.multiply dəyişəninin üzərinə həmin ədədin hasilini hesabla.
+7.multiply dəyişəninin dəyərini ekranda göstər.

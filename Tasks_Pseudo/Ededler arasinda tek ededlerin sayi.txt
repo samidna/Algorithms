@@ -1,0 +1,12 @@
+1. Ekranda "Birinci ədədi daxil edin" mesajını göstər.
+2.num1 adlı dəyişəni istifadəçidən alınan birinci ədədə təyin et.
+3.Ekranda "İkinci ədədi daxil edin" mesajını göstər.
+4.num2 adlı dəyişəni istifadəçidən alınan ikinci ədədə təyin et.
+5.count adlı dəyişəni 0-a təyin et.
+6.Əgər num1 > num2 isə:
+  1.Ekranda "Birinci ədəd ikinci ədəddən böyük olmamalıdır" mesajını göstər.
+  2.Başlanğıca qayıt (yenidən ədəd daxil edilməsini istə).
+7.num1 ilə num2 arasındakı bütün ədədləri yoxla:
+  1.Əgər ədəd təkdirsə (yəni ədədi 2-yə böləndə qalıq qalırsa):
+  2.count dəyişəninin qiymətini 1 artır.
+8.count dəyişəninin dəyərini ekranda göstər.

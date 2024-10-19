@@ -1,0 +1,17 @@
+1.Ekranda "Ədədi daxil edin" mesajını göstər.
+2.num adlı dəyişəni istifadəçidən alınan ədədə təyin et.
+3.flag adlı dəyişənə false təyin et.
+4.Əgər num ≤ 0 isə:
+  1.Ekranda "0-dan yüksək ədəd daxil edin" mesajını göstər.
+  2.Başlanğıca qayıt (yenidən ədəd daxil edilməsini istə).
+5.Əgər num = 1 isə:
+  1.Ekranda "Nə sadə, nə də mürəkkəbdir" mesajını göstər.
+6.Əks halda:
+  1.num-un bölünənlərini yoxlamaq üçün dövr başlat:
+    1.i dəyişənini 2-dən başladaraq i kvadratının num-a çatana qədər artır:
+      1.Əgər num % i = 0 isə:
+        1.flag-i doğruya (true) təyin et.
+  2.Əgər flag doğru (true) isə:
+    1.Ekranda "Ədəd mürəkkəbdir" mesajını göstər.
+  3.Əks halda:
+    1.Ekranda "Ədəd sadədir" mesajını göstər.

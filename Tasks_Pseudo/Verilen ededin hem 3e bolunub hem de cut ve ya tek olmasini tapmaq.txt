@@ -1,0 +1,12 @@
+1.Ekranda "Ədədi daxil edin" mesajını göstər.
+2.num adlı dəyişəni istifadəçidən alınan ədədə təyin et.
+3.Əgər num = 0 isə:
+  1.Ekranda "Ədəd nə tək, nə də cütdür" mesajını göstər.
+4.Əks halda:
+  1.Əgər num 3-ə bölünürsə:
+    1.Əgər num 2-yə bölünürsə:
+      1.Ekranda "3-ə bölünən cüt ədəddir" mesajını göstər.
+    2.Əks halda:
+      1.Ekranda "3-ə bölünən tək ədəddir" mesajını göstər.
+  2.Əks halda:
+    1.Ekranda "3-ə bölünmür" mesajını göstər.
